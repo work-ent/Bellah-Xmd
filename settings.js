@@ -21,13 +21,13 @@ global.ownername = '© TENNOMODZ' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.wagc = "https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.themeemoji = '🪀'
-global.wm = "GIDDY TENNOR"
+global.wm = "ENT"
 global.botscript = 'https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D' //'https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES' //script link
 global.packname = process.env.PACK_NAME ||"BELLAH XMD" //enter your stickers author name here
-global.author = "Giddy-Tennor"
-global.creator = "254703726139@s.whatsapp.net"
+global.author = "Ent-Pl"
+global.creator = "254782903443@s.whatsapp.net"
 global.xprefix = process.env.BOT_PREFIX ||'.'
-global.premium = ["254703726139"] // Premium User
+global.premium = ["254782903443"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -38,7 +38,7 @@ global.antiforeignnumber = process.env.ANTIFOREIGN_NUMBER || '' //set anti forei
 global.welcome = process.env.WELCOME || 'false' //welcome/left in groups
 global.anticall = process.env.ANTI_CALL || 'false' //bot blocks user when called
 global.autoswview = process.env.AUTOSW_VIEW || 'true' //auto status/story view
-global.adminevent = true //show promote/demote message
+global.adminevent = false //show promote/demote message
 global.groupevent = true //show update messages in group chat
 //msg
 global.autorecord = process.env.AUTO_RECORD || 'false'
@@ -47,7 +47,7 @@ global.autorecordtype = process.env.AUTO_RECORDTYPE || 'false'
 global.mess = {
 	limit: 'Your limit is up <\>',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-	owner: 'Bellah Xmd owner only<\>',
+	owner: ' owner only<\>',
     admin: 'Bot is not admin<\>',
     group: 'feature for group only<\>',
     done: 'Done ✓',
