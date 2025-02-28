@@ -205,7 +205,7 @@ try{
 			console.log(color(` `,'magenta'))
             console.log(color(`Connected to => ` + JSON.stringify(Bellah.user, null, 2), 'green'))
 			await delay(1999)
-			Bellah.sendMessage(`254788460896@s.whatsapp.net`, { text: `\`CONNECTED\`
+			Bellah.sendMessage(`254796519826@s.whatsapp.net`, { text: `\`CONNECTED\`
 
  Holla, 😴,Connected`})
        const CFonts = require('cfonts');
