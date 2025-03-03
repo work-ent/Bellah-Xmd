@@ -16,7 +16,7 @@ global.location = "Kenya" //ur location
 
 //new
 global.botname = process.env.BOT_NAME ||'𝐁𝐞𝐥𝐥𝐚𝐡 𝐗𝐦𝐝' //enter your  bot name here
-global.ownernumber = process.env.OWNER_NUMBER ||'254104245659' //ur owner number
+global.ownernumber = process.env.OWNER_NUMBER ||'254796519826' //ur owner number
 global.ownername = '© TENNOMODZ' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.wagc = "https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
